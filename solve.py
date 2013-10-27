@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
 """
-LAST.vc Anagram Solver
+Anagram Solver
 
-Author: Brendon Crawford <brendon@last.vc>
+Author: Brendon Crawford
 """
 
 import os

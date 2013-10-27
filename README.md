@@ -1,9 +1,9 @@
-LAST Anagram Solver
-===================
+Anagram Solver
+==============
 
 Author: Brendon Crawford
 
-Homepage: http://github.com/last/anagram/
+Homepage: https://github.com/brendoncrawford/anagram/
 
 This is a distributed/multi-core anagram solver.
 
